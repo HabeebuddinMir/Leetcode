@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08b934c5-dea7-4c31-b097-20f0d56f8f60" name="Changes" comment="Setting up the repository">
+    <list default="true" id="08b934c5-dea7-4c31-b097-20f0d56f8f60" name="Changes" comment="Adding package structure">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/KthLargest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codewithhabeeb/KthLargest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codewithhabeeb/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codewithhabeeb/KthLargest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codewithhabeeb/KthLargest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +56,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661460837046</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Adding package structure">
+      <created>1661461662542</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1661461662542</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -73,6 +79,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Setting up the repository" />
-    <option name="LAST_COMMIT_MESSAGE" value="Setting up the repository" />
+    <MESSAGE value="Adding package structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding package structure" />
   </component>
 </project>
