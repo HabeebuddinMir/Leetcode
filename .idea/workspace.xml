@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08b934c5-dea7-4c31-b097-20f0d56f8f60" name="Changes" comment="283. Move Zeroes">
-      <change afterPath="$PROJECT_DIR$/src/com/codewithhabeeb/reverseArray.java" afterDir="false" />
+    <list default="true" id="08b934c5-dea7-4c31-b097-20f0d56f8f60" name="Changes" comment="344. Reverse String">
+      <change afterPath="$PROJECT_DIR$/src/com/codewithhabeeb/rotateArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661715099865</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="344. Reverse String">
+      <created>1661718260174</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1661718260174</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -96,6 +103,7 @@
     <MESSAGE value="Adding package structure" />
     <MESSAGE value="215. Kth Largest Element in an Array" />
     <MESSAGE value="283. Move Zeroes" />
-    <option name="LAST_COMMIT_MESSAGE" value="283. Move Zeroes" />
+    <MESSAGE value="344. Reverse String" />
+    <option name="LAST_COMMIT_MESSAGE" value="344. Reverse String" />
   </component>
 </project>
