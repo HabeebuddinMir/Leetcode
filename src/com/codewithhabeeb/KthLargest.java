@@ -16,7 +16,7 @@ public class KthLargest {
     }
 
     public static void main(String[] args){
-        int[] arr = { 5, 10, 15, 20 };
-        System.out.println(findKthLargest(arr, 2));
+        int[] nums = { 5, 10, 15, 20 };
+        System.out.println(findKthLargest(nums, 2));
     }
 }
